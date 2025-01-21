@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 
 ## Projects
 
-### [Tunesearch](https://example.com/tunesearch)
+### [Tunesearch](https://songreco.vercel.app)
 TuneSearch is a web application designed to provide personalized music recommendations based on user-uploaded playlists or Spotify Public Playlist URLs. The application leverages AI and various APIs to generate recommendations and enrich metadata for each track. It features a user-friendly interface built with HTML, CSS, and JavaScript, and a backend powered by Flask.
 
 ## Education
